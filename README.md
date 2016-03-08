@@ -16,6 +16,7 @@
 **Post**
 
     [] Start project
+    [] Learning how to write better
   
 **Etc**
 
