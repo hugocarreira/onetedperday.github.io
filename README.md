@@ -16,7 +16,7 @@
 **Post**
 
     [] Start project
-    [] Learning how to write better :astonished:
+    [] Learning how to write better :(
   
 **Etc**
 
@@ -24,5 +24,5 @@
   
 
 ---
-#### Contribute
+#### Contributing
 I accept sugestions.
