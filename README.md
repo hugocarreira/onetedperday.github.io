@@ -1,15 +1,26 @@
 # tedeveryday.github.io
-## Ted Every Day
-### This is a project where my will, every day , I will watch at least a TED talk.
+### Ted Every Day
+---
+###### This is a project where my will, every day , I will watch at least a TED talk.
+---
+#### TO DO
 
-## TO DO
+FrontEnd
 
-[] FrontEnd
-  [] Install Jekyll
-  [] Select a simple Jekyll Template
-  [] Install a simple Jekyll Template
-  [] Customize a Template
-[] Post
-  [] Start Project
-[] Etc
-  [] Domain Register
+    [] Install Jekyll  
+    [] Select a simple Jekyll template
+    [] Install a simple Jekyll template
+    [] Customize a template
+  
+Post
+
+    [] Start project
+  
+Etc
+
+    [] Domain register
+  
+
+---
+
+I accept sugestions.
