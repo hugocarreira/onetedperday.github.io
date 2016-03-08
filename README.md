@@ -16,7 +16,7 @@
 **Post**
 
     [] Start project
-    [] Learning how to write better
+    [] Learning how to write better :astonished:
   
 **Etc**
 
