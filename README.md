@@ -1,5 +1,4 @@
-# tedeveryday.github.io
-### Ted Every Day
+# Ted Every Day
 ---
 ###### This is a project where my will, every day, i will watch at least a TED talk.
 
