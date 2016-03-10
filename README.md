@@ -9,8 +9,10 @@
 **FrontEnd**
 
     [] Install Jekyll  
+    [] Configure Jekyll
     [] Select a simple Jekyll template
     [] Install a simple Jekyll template
+    [] Configure Jekyll template
     [] Customize a template
   
 **Post**
