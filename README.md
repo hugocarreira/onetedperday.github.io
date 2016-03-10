@@ -22,7 +22,8 @@
   
 **Etc**
 
-    [] Domain register
+    [x] Domain register
+        -> www.tedeveryday.com
   
 
 ---
