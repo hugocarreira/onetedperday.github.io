@@ -25,7 +25,7 @@
 **Etc**
 
    - [x] Domain register
-        - www.tedeveryday.com
+       - www.tedeveryday.com
   
 
 ---
