@@ -12,7 +12,7 @@
     [] Configure Jekyll
     [x] Select a simple Jekyll template
     [x] Install a simple Jekyll template
-        -> Template Chosen = WillianJusten-Jekyll-Template - https://github.com/willianjusten/will-jekyll-template
+        * Template Chosen = WillianJusten-Jekyll-Template - https://github.com/willianjusten/will-jekyll-template
     [] Configure Jekyll template
     [] Customize a template
   
@@ -24,7 +24,7 @@
 **Etc**
 
     [x] Domain register
-        -> www.tedeveryday.com
+        * www.tedeveryday.com
   
 
 ---
