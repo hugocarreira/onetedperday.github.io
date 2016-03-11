@@ -10,8 +10,9 @@
 
     [] Install Jekyll  
     [] Configure Jekyll
-    [] Select a simple Jekyll template
-    [] Install a simple Jekyll template
+    [x] Select a simple Jekyll template
+    [x] Install a simple Jekyll template
+        -> Template Chosen = WillianJusten-Jekyll-Template - https://github.com/willianjusten/will-jekyll-template
     [] Configure Jekyll template
     [] Customize a template
   
