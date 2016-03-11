@@ -8,19 +8,19 @@
 #### TO DO
 **FrontEnd**
 
-   - [] Install Jekyll  
-   - [] Configure Jekyll
+   - [ ] Install Jekyll  
+   - [ ] Configure Jekyll
    - [x] Select a simple Jekyll template
    - [x] Install a simple Jekyll template
        - Template Chosen = WillianJusten-Jekyll-Template
        - Template Github = https://github.com/willianjusten/will-jekyll-template
-   - [] Configure Jekyll template
-   - [] Customize a template
+   - [ ] Configure Jekyll template
+   - [ ] Customize a template
   
 **Post**
 
-   - [] Start project
-   - [] Learning how to write better :(
+   - [ ] Start project
+   - [ ] Learning how to write better :(
   
 **Etc**
 
