@@ -15,7 +15,7 @@ disqus_username: hugocarreira
 
 # Build settings
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 permalink: /:title/
 
 
