@@ -1,0 +1,198 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/bin/node',
+1 verbose cli   '/usr/bin/npm',
+1 verbose cli   'install',
+1 verbose cli   '--global',
+1 verbose cli   'gulp-cli' ]
+2 info using npm@1.4.28
+3 info using node@v0.10.37
+4 verbose node symlink /usr/bin/node
+5 verbose cache add [ 'gulp-cli', null ]
+6 verbose cache add name=undefined spec="gulp-cli" args=["gulp-cli",null]
+7 verbose parsed url { protocol: null,
+7 verbose parsed url   slashes: null,
+7 verbose parsed url   auth: null,
+7 verbose parsed url   host: null,
+7 verbose parsed url   port: null,
+7 verbose parsed url   hostname: null,
+7 verbose parsed url   hash: null,
+7 verbose parsed url   search: null,
+7 verbose parsed url   query: null,
+7 verbose parsed url   pathname: 'gulp-cli',
+7 verbose parsed url   path: 'gulp-cli',
+7 verbose parsed url   href: 'gulp-cli' }
+8 silly lockFile e23a8be8-gulp-cli gulp-cli
+9 verbose lock gulp-cli /home/hugoubuntu/.npm/e23a8be8-gulp-cli.lock
+10 silly lockFile e23a8be8-gulp-cli gulp-cli
+11 silly lockFile e23a8be8-gulp-cli gulp-cli
+12 verbose addNamed [ 'gulp-cli', '' ]
+13 verbose addNamed [ null, '*' ]
+14 silly lockFile dd34a9c8-gulp-cli gulp-cli@
+15 verbose lock gulp-cli@ /home/hugoubuntu/.npm/dd34a9c8-gulp-cli.lock
+16 silly addNameRange { name: 'gulp-cli', range: '*', hasData: false }
+17 verbose request where is /gulp-cli
+18 verbose request registry https://registry.npmjs.org/
+19 verbose request id c364457d0e3883cb
+20 verbose url raw /gulp-cli
+21 verbose url resolving [ 'https://registry.npmjs.org/', './gulp-cli' ]
+22 verbose url resolved https://registry.npmjs.org/gulp-cli
+23 verbose request where is https://registry.npmjs.org/gulp-cli
+24 info trying registry request attempt 1 at 21:50:58
+25 http GET https://registry.npmjs.org/gulp-cli
+26 http 200 https://registry.npmjs.org/gulp-cli
+27 silly registry.get cb [ 200,
+27 silly registry.get   { server: 'CouchDB/1.5.0 (Erlang OTP/R16B03)',
+27 silly registry.get     etag: '"E25W83AWX4UQKU0ES4WARR7OH"',
+27 silly registry.get     'content-type': 'application/json',
+27 silly registry.get     'cache-control': 'max-age=300',
+27 silly registry.get     'content-length': '27632',
+27 silly registry.get     'accept-ranges': 'bytes',
+27 silly registry.get     date: 'Sat, 12 Mar 2016 00:51:00 GMT',
+27 silly registry.get     via: '1.1 varnish',
+27 silly registry.get     age: '243',
+27 silly registry.get     connection: 'keep-alive',
+27 silly registry.get     'x-served-by': 'cache-iad2124-IAD',
+27 silly registry.get     'x-cache': 'HIT',
+27 silly registry.get     'x-cache-hits': '26',
+27 silly registry.get     'x-timer': 'S1457743860.172151,VS0,VE0',
+27 silly registry.get     vary: 'Accept' } ]
+28 silly addNameRange number 2 { name: 'gulp-cli', range: '*', hasData: true }
+29 silly addNameRange versions [ 'gulp-cli',
+29 silly addNameRange   [ '0.1.0',
+29 silly addNameRange     '0.1.3',
+29 silly addNameRange     '0.1.4',
+29 silly addNameRange     '0.1.5',
+29 silly addNameRange     '0.2.0',
+29 silly addNameRange     '0.3.0',
+29 silly addNameRange     '1.0.0',
+29 silly addNameRange     '1.1.0',
+29 silly addNameRange     '1.1.1',
+29 silly addNameRange     '1.2.0',
+29 silly addNameRange     '1.2.1' ] ]
+30 verbose addNamed [ 'gulp-cli', '1.2.1' ]
+31 verbose addNamed [ '1.2.1', '1.2.1' ]
+32 silly lockFile df40f7fc-gulp-cli-1-2-1 gulp-cli@1.2.1
+33 verbose lock gulp-cli@1.2.1 /home/hugoubuntu/.npm/df40f7fc-gulp-cli-1-2-1.lock
+34 silly lockFile 7031ddf2--org-gulp-cli-gulp-cli-1-2-1-tgz https://registry.npmjs.org/gulp-cli/-/gulp-cli-1.2.1.tgz
+35 verbose lock https://registry.npmjs.org/gulp-cli/-/gulp-cli-1.2.1.tgz /home/hugoubuntu/.npm/7031ddf2--org-gulp-cli-gulp-cli-1-2-1-tgz.lock
+36 verbose addRemoteTarball [ 'https://registry.npmjs.org/gulp-cli/-/gulp-cli-1.2.1.tgz',
+36 verbose addRemoteTarball   '9fd52c50e44fe8eb04a54b3cee23d4a021e3fd3d' ]
+37 info retry fetch attempt 1 at 21:50:59
+38 verbose fetch to= /tmp/npm-1578-qQFVbXRH/registry.npmjs.org/gulp-cli/-/gulp-cli-1.2.1.tgz
+39 http GET https://registry.npmjs.org/gulp-cli/-/gulp-cli-1.2.1.tgz
+40 http 200 https://registry.npmjs.org/gulp-cli/-/gulp-cli-1.2.1.tgz
+41 silly lockFile 7031ddf2--org-gulp-cli-gulp-cli-1-2-1-tgz https://registry.npmjs.org/gulp-cli/-/gulp-cli-1.2.1.tgz
+42 silly lockFile 7031ddf2--org-gulp-cli-gulp-cli-1-2-1-tgz https://registry.npmjs.org/gulp-cli/-/gulp-cli-1.2.1.tgz
+43 silly lockFile df40f7fc-gulp-cli-1-2-1 gulp-cli@1.2.1
+44 silly lockFile df40f7fc-gulp-cli-1-2-1 gulp-cli@1.2.1
+45 silly lockFile dd34a9c8-gulp-cli gulp-cli@
+46 silly lockFile dd34a9c8-gulp-cli gulp-cli@
+47 silly resolved [ { name: 'gulp-cli',
+47 silly resolved     version: '1.2.1',
+47 silly resolved     description: 'Command line interface for gulp',
+47 silly resolved     author:
+47 silly resolved      { name: 'Gulp Team',
+47 silly resolved        email: 'team@gulpjs.com',
+47 silly resolved        url: 'http://gulpjs.com/' },
+47 silly resolved     contributors: [],
+47 silly resolved     homepage: 'http://gulpjs.com',
+47 silly resolved     repository:
+47 silly resolved      { type: 'git',
+47 silly resolved        url: 'git+https://github.com/gulpjs/gulp-cli.git' },
+47 silly resolved     license: 'MIT',
+47 silly resolved     man: [ 'gulp.1' ],
+47 silly resolved     engines: { node: '>= 0.10' },
+47 silly resolved     main: 'index.js',
+47 silly resolved     bin: { gulp: 'bin/gulp.js' },
+47 silly resolved     files: [ 'index.js', 'lib', 'bin', 'completion', 'gulp.1' ],
+47 silly resolved     scripts:
+47 silly resolved      { coveralls: 'lab -r lcov | coveralls',
+47 silly resolved        lint: 'eslint . && jscs index.js bin/ lib/ test/',
+47 silly resolved        prepublish: 'marked-man --name gulp docs/CLI.md > gulp.1',
+47 silly resolved        pretest: 'npm run lint',
+47 silly resolved        test: 'lab test/*.js -cv' },
+47 silly resolved     dependencies:
+47 silly resolved      { archy: '^1.0.0',
+47 silly resolved        chalk: '^1.1.0',
+47 silly resolved        'fancy-log': '^1.1.0',
+47 silly resolved        gulplog: '^1.0.0',
+47 silly resolved        interpret: '^1.0.0',
+47 silly resolved        liftoff: '^2.1.0',
+47 silly resolved        'lodash.sortby': '^4.0.1',
+47 silly resolved        matchdep: '^1.0.0',
+47 silly resolved        'mute-stdout': '^1.0.0',
+47 silly resolved        'pretty-hrtime': '^1.0.0',
+47 silly resolved        'semver-greatest-satisfied-range': '^1.0.0',
+47 silly resolved        tildify: '^1.0.0',
+47 silly resolved        v8flags: '^2.0.9',
+47 silly resolved        wreck: '^6.3.0',
+47 silly resolved        yargs: '^3.28.0' },
+47 silly resolved     devDependencies:
+47 silly resolved      { 'babel-preset-es2015': '^6.5.0',
+47 silly resolved        'babel-register': '^6.5.1',
+47 silly resolved        code: '^1.2.1',
+47 silly resolved        coveralls: '^2.7.0',
+47 silly resolved        eslint: '^1.7.3',
+47 silly resolved        'eslint-config-gulp': '^2.0.0',
+47 silly resolved        'fs-extra': '^0.26.1',
+47 silly resolved        gulp: 'github:gulpjs/gulp#4.0',
+47 silly resolved        jscs: '^2.3.5',
+47 silly resolved        'jscs-preset-gulp': '^1.0.0',
+47 silly resolved        lab: '^6.2.0',
+47 silly resolved        'marked-man': '^0.1.3' },
+47 silly resolved     keywords: [ 'build', 'stream', 'system', 'make', 'tool', 'asset', 'pipeline' ],
+47 silly resolved     gitHead: 'fef30d8de1dc32437fe796c7c07e94e58abd71bb',
+47 silly resolved     bugs: { url: 'https://github.com/gulpjs/gulp-cli/issues' },
+47 silly resolved     _id: 'gulp-cli@1.2.1',
+47 silly resolved     _shasum: '9fd52c50e44fe8eb04a54b3cee23d4a021e3fd3d',
+47 silly resolved     _from: 'gulp-cli@',
+47 silly resolved     _npmVersion: '2.14.14',
+47 silly resolved     _nodeVersion: '0.10.41',
+47 silly resolved     _npmUser: { name: 'phated', email: 'blaine@iceddev.com' },
+47 silly resolved     maintainers: [ [Object], [Object] ],
+47 silly resolved     dist:
+47 silly resolved      { shasum: '9fd52c50e44fe8eb04a54b3cee23d4a021e3fd3d',
+47 silly resolved        tarball: 'http://registry.npmjs.org/gulp-cli/-/gulp-cli-1.2.1.tgz' },
+47 silly resolved     _npmOperationalInternal:
+47 silly resolved      { host: 'packages-6-west.internal.npmjs.com',
+47 silly resolved        tmp: 'tmp/gulp-cli-1.2.1.tgz_1455051669450_0.3080240413546562' },
+47 silly resolved     directories: {},
+47 silly resolved     _resolved: 'https://registry.npmjs.org/gulp-cli/-/gulp-cli-1.2.1.tgz' } ]
+48 info install gulp-cli@1.2.1 into /usr/local/lib
+49 info installOne gulp-cli@1.2.1
+50 verbose lib/node_modules/gulp-cli unbuild
+51 verbose tar unpack /home/hugoubuntu/.npm/gulp-cli/1.2.1/package.tgz
+52 silly lockFile 61ed2849--local-lib-node-modules-gulp-cli tar:///usr/local/lib/node_modules/gulp-cli
+53 verbose lock tar:///usr/local/lib/node_modules/gulp-cli /home/hugoubuntu/.npm/61ed2849--local-lib-node-modules-gulp-cli.lock
+54 silly lockFile a434c200-u-npm-gulp-cli-1-2-1-package-tgz tar:///home/hugoubuntu/.npm/gulp-cli/1.2.1/package.tgz
+55 verbose lock tar:///home/hugoubuntu/.npm/gulp-cli/1.2.1/package.tgz /home/hugoubuntu/.npm/a434c200-u-npm-gulp-cli-1-2-1-package-tgz.lock
+56 silly gunzTarPerm modes [ '775', '664' ]
+57 error Error: EACCES, mkdir '/usr/local/lib/node_modules/gulp-cli'
+57 error  { [Error: EACCES, mkdir '/usr/local/lib/node_modules/gulp-cli']
+57 error   errno: 3,
+57 error   code: 'EACCES',
+57 error   path: '/usr/local/lib/node_modules/gulp-cli',
+57 error   fstream_type: 'Directory',
+57 error   fstream_path: '/usr/local/lib/node_modules/gulp-cli',
+57 error   fstream_class: 'DirWriter',
+57 error   fstream_stack:
+57 error    [ '/usr/lib/node_modules/npm/node_modules/fstream/lib/dir-writer.js:36:23',
+57 error      '/usr/lib/node_modules/npm/node_modules/mkdirp/index.js:46:53',
+57 error      'Object.oncomplete (fs.js:108:15)' ] }
+58 error Please try running this command again as root/Administrator.
+59 error System Linux 3.16.0-59-generic
+60 error command "/usr/bin/node" "/usr/bin/npm" "install" "--global" "gulp-cli"
+61 error cwd /home/hugoubuntu/vagrant/www/tedeveryday
+62 error node -v v0.10.37
+63 error npm -v 1.4.28
+64 error path /usr/local/lib/node_modules/gulp-cli
+65 error fstream_path /usr/local/lib/node_modules/gulp-cli
+66 error fstream_type Directory
+67 error fstream_class DirWriter
+68 error code EACCES
+69 error errno 3
+70 error stack Error: EACCES, mkdir '/usr/local/lib/node_modules/gulp-cli'
+71 error fstream_stack /usr/lib/node_modules/npm/node_modules/fstream/lib/dir-writer.js:36:23
+71 error fstream_stack /usr/lib/node_modules/npm/node_modules/mkdirp/index.js:46:53
+71 error fstream_stack Object.oncomplete (fs.js:108:15)
+72 verbose exit [ 3, true ]
