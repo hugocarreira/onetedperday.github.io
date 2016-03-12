@@ -1,4 +1,5 @@
 # Site settings
+title: t.e.d
 description: Simple blog about TED.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://tedeveryday.com" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
@@ -8,7 +9,7 @@ username: hugocarreira
 user_description: a little developer
 user_title: Hugo Carreira
 email: hugo.colombo23@gmail.com
-twitter_username: hugo.colombo23
+twitter_username: hugocolombo23
 github_username:  hugocarreira
 # gplus_username:  lorem_ipsum
 disqus_username: hugocarreira
